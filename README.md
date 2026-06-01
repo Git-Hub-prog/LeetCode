@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Git-Hub-prog/LeetCode/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/Git-Hub-prog/LeetCode/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
