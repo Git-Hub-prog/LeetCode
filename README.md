@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Git-Hub-prog/LeetCode/tree/master/0012-integer-to-roman) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Git-Hub-prog/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Git-Hub-prog/LeetCode/tree/master/0012-integer-to-roman) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Git-Hub-prog/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
@@ -40,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Git-Hub-prog/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Git-Hub-prog/LeetCode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
