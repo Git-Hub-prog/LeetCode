@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Git-Hub-prog/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Git-Hub-prog/LeetCode/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Git-Hub-prog/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Git-Hub-prog/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Git-Hub-prog/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Git-Hub-prog/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Git-Hub-prog/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Git-Hub-prog/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Git-Hub-prog/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
