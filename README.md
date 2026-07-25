@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Git-Hub-prog/LeetCode/tree/master/0012-integer-to-roman) |
 | [0138-copy-list-with-random-pointer](https://github.com/Git-Hub-prog/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Git-Hub-prog/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Git-Hub-prog/LeetCode/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Git-Hub-prog/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Git-Hub-prog/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Git-Hub-prog/LeetCode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Git-Hub-prog/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Git-Hub-prog/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Git-Hub-prog/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Git-Hub-prog/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Git-Hub-prog/LeetCode/tree/master/0146-lru-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Git-Hub-prog/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Git-Hub-prog/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Git-Hub-prog/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
