@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Git-Hub-prog/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Git-Hub-prog/LeetCode/tree/master/0066-plus-one) |
 | [0134-gas-station](https://github.com/Git-Hub-prog/LeetCode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Git-Hub-prog/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Git-Hub-prog/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/Git-Hub-prog/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Git-Hub-prog/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Git-Hub-prog/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Git-Hub-prog/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Git-Hub-prog/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
