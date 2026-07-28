@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Git-Hub-prog/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Git-Hub-prog/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Git-Hub-prog/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Git-Hub-prog/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Git-Hub-prog/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Git-Hub-prog/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Git-Hub-prog/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Git-Hub-prog/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Git-Hub-prog/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Git-Hub-prog/LeetCode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Git-Hub-prog/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Git-Hub-prog/LeetCode/tree/master/0071-simplify-path) |
 ## Stack
 |  |
@@ -130,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Git-Hub-prog/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Git-Hub-prog/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Git-Hub-prog/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Git-Hub-prog/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
