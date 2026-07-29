@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Git-Hub-prog/LeetCode/tree/master/0035-search-insert-position) |
 | [0057-insert-interval](https://github.com/Git-Hub-prog/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Git-Hub-prog/LeetCode/tree/master/0066-plus-one) |
 | [0134-gas-station](https://github.com/Git-Hub-prog/LeetCode/tree/master/0134-gas-station) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Git-Hub-prog/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Git-Hub-prog/LeetCode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Git-Hub-prog/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
