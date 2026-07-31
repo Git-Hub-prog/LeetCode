@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Git-Hub-prog/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Git-Hub-prog/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Git-Hub-prog/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Git-Hub-prog/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Git-Hub-prog/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Git-Hub-prog/LeetCode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Git-Hub-prog/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Git-Hub-prog/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -174,4 +176,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Git-Hub-prog/LeetCode/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Git-Hub-prog/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Git-Hub-prog/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Git-Hub-prog/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
