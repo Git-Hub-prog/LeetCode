@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Git-Hub-prog/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Git-Hub-prog/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Git-Hub-prog/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Git-Hub-prog/LeetCode/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/Git-Hub-prog/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Git-Hub-prog/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Git-Hub-prog/LeetCode/tree/master/0137-single-number-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Git-Hub-prog/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Git-Hub-prog/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Git-Hub-prog/LeetCode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Git-Hub-prog/LeetCode/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Git-Hub-prog/LeetCode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Git-Hub-prog/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Git-Hub-prog/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Git-Hub-prog/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Git-Hub-prog/LeetCode/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Git-Hub-prog/LeetCode/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Git-Hub-prog/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
