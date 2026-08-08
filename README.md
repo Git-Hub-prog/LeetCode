@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Git-Hub-prog/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Git-Hub-prog/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Git-Hub-prog/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0748-shortest-completing-word](https://github.com/Git-Hub-prog/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Git-Hub-prog/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Git-Hub-prog/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Git-Hub-prog/LeetCode/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Git-Hub-prog/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0748-shortest-completing-word](https://github.com/Git-Hub-prog/LeetCode/tree/master/0748-shortest-completing-word) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Git-Hub-prog/LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Git-Hub-prog/LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Git-Hub-prog/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0748-shortest-completing-word](https://github.com/Git-Hub-prog/LeetCode/tree/master/0748-shortest-completing-word) |
 ## Stack
 |  |
 | ------- |
