@@ -14,17 +14,16 @@
  * }
  */
 class Solution {
-    public void nthlevel(TreeNode root,int n,ArrayList<Integer> arr){
+    public void nthlevel1(TreeNode root,int n,List<Integer> arr){
         if(root == null) return;
         if(n == 1){
             arr.add(root.val);
             return;
         }
-        nthlevel(root.left,n-1,arr);
-        nthlevel(root.right,n-1,arr);
-
+        nthlevel1(root.left,n-1,arr);
+        nthlevel1(root.right,n-1,arr);
     }
-    public void nthlevel2(TreeNode root,int n,ArrayList<Integer> arr){
+    public void nthlevel2(TreeNode root,int n,List<Integer> arr){
         if(root == null) return;
         if(n == 1){
             arr.add(root.val);
@@ -32,9 +31,8 @@ class Solution {
         }
         nthlevel2(root.right,n-1,arr);
         nthlevel2(root.left,n-1,arr);
-
     }
-    public static int height(TreeNode root){
+    public int height(TreeNode root){
         if(root == null) return 0;
         if(root.left == null && root.right == null) return 0;
         return 1 + Math.max(height(root.left),height(root.right));
@@ -45,13 +43,13 @@ class Solution {
         if(root == null) return ans;
         for(int i = 1; i <= level; i++){
             ArrayList<Integer> arr = new ArrayList<>();
-            if(i % 2 == 0){   // i denote of level
+            if(i % 2 == 0){
                 nthlevel2(root,i,arr);
             }else{
-                nthlevel(root,i,arr);
+                nthlevel1(root,i,arr);
             }
             ans.add(arr);
         }
-        return ans;  
+        return ans;
     }
 }
