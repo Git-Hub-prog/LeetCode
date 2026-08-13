@@ -15,7 +15,9 @@
  */
 class Solution {
     public TreeNode helper(int[] preorder,int prelo,int prehi,int[] inorder,int inlo,int inhi){
-        if(prelo > prehi) return null;
+        if(prelo > prehi){
+            return null;
+        }
         TreeNode root = new TreeNode(preorder[prelo]);
         int i = inlo;
         while(inorder[i] != preorder[prelo]) i++;
