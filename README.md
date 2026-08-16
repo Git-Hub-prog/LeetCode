@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Git-Hub-prog/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Git-Hub-prog/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Git-Hub-prog/LeetCode/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/Git-Hub-prog/LeetCode/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Git-Hub-prog/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Git-Hub-prog/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Git-Hub-prog/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -31,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Git-Hub-prog/LeetCode/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/Git-Hub-prog/LeetCode/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Git-Hub-prog/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Git-Hub-prog/LeetCode/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Git-Hub-prog/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Hash Table
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Git-Hub-prog/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Git-Hub-prog/LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Git-Hub-prog/LeetCode/tree/master/0079-word-search) |
+| [0179-largest-number](https://github.com/Git-Hub-prog/LeetCode/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/Git-Hub-prog/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0748-shortest-completing-word](https://github.com/Git-Hub-prog/LeetCode/tree/master/0748-shortest-completing-word) |
 ## Stack
