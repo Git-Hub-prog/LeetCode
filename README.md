@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Git-Hub-prog/LeetCode/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/Git-Hub-prog/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Git-Hub-prog/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Git-Hub-prog/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Git-Hub-prog/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Git-Hub-prog/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Git-Hub-prog/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Git-Hub-prog/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Git-Hub-prog/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0748-shortest-completing-word](https://github.com/Git-Hub-prog/LeetCode/tree/master/0748-shortest-completing-word) |
 ## Math
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Git-Hub-prog/LeetCode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Git-Hub-prog/LeetCode/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/Git-Hub-prog/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0451-sort-characters-by-frequency](https://github.com/Git-Hub-prog/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0748-shortest-completing-word](https://github.com/Git-Hub-prog/LeetCode/tree/master/0748-shortest-completing-word) |
 ## Stack
 |  |
@@ -280,14 +283,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Git-Hub-prog/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Git-Hub-prog/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Git-Hub-prog/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Git-Hub-prog/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Git-Hub-prog/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Git-Hub-prog/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
