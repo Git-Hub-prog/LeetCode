@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Git-Hub-prog/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Git-Hub-prog/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Git-Hub-prog/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Git-Hub-prog/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Git-Hub-prog/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0748-shortest-completing-word](https://github.com/Git-Hub-prog/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Git-Hub-prog/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Git-Hub-prog/LeetCode/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/Git-Hub-prog/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Git-Hub-prog/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Git-Hub-prog/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Hash Table
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Git-Hub-prog/LeetCode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Git-Hub-prog/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Git-Hub-prog/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Git-Hub-prog/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0748-shortest-completing-word](https://github.com/Git-Hub-prog/LeetCode/tree/master/0748-shortest-completing-word) |
 ## Math
 |  |
